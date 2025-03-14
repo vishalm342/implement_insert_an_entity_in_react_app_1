@@ -1,4 +1,4 @@
-/* src/App.css */
+/* /* src/App.css
 
 .App {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -10,10 +10,12 @@
 }
 
 /* Optional: Remove default margin and padding */
-body,
+/* body,
 html,
 #root {
   margin: 0;
   padding: 0;
   height: 100%;
-}
+} * */ 
+
+@import "tailwindcss";
